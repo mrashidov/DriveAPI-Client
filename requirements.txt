@@ -1,0 +1,3 @@
+tabulate
+httplib2
+google-api-python-client
